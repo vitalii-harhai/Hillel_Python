@@ -162,7 +162,7 @@ while True:
                     # если есть сохраненный файл заметок - удаляем
                     if os.path.exists(DB_FILE):
                         os.remove(DB_FILE)
-                        print('Файл зі збереженими нотатками видалено')
+                        print('Файл зі збереженими нотатками видалено ')
                     break
                 # в этом случае удалять нечего - выводим сообщение
                 if not db_temp and not os.path.exists(DB_FILE):
