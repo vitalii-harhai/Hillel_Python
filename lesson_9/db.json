@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2022-01-05",
+    "payment receiver": "Google",
+    "amount of payment": 100.00,
+    "payment currency": "UAH"
+  },
+  {
+    "date": "2020-09-07",
+    "payment receiver": "Ukraine",
+    "amount of payment": 2345222.00,
+    "payment currency": "USD"
+  },
+  {
+    "date": "2022-12-31",
+    "payment receiver": "Tesla",
+    "amount of payment": 0.05,
+    "payment currency": "JPY"
+  },
+  {
+    "date": "2022-01-05",
+    "payment receiver": "Tesla",
+    "amount of payment": 0.05,
+    "payment currency": "JPY"
+  },
+  {
+    "date": "2020-09-07",
+    "payment receiver": "Google",
+    "amount of payment": 5.64,
+    "payment currency": "EUR"
+  },
+  {
+    "date": "2022-01-01",
+    "payment receiver": "Ukraine",
+    "amount of payment": 1234.00,
+    "payment currency": "EUR"
+  },
+   {
+    "date": "2020-09-07",
+    "payment receiver": "Tesla",
+    "amount of payment": 1000.99,
+    "payment currency": "JPY"
+  },
+  {
+    "date": "2022-01-01",
+    "payment receiver": "Google",
+    "amount of payment": 1200.00,
+    "payment currency": "JPY"
+  },
+  {
+    "date": "2022-02-15",
+    "payment receiver": "Ukraine",
+    "amount of payment": 2345222.00,
+    "payment currency": "USD"
+  },
+  {
+    "date": "2020-09-07",
+    "payment receiver": "Tesla",
+    "amount of payment": 230.01,
+    "payment currency": "JPY"
+  },
+  {
+    "date": "2022-10-06",
+    "payment receiver": "Tesla",
+    "amount of payment": 30.05,
+    "payment currency": "EUR"
+  },
+  {
+    "date": "2022-01-01",
+    "payment receiver": "Google",
+    "amount of payment": 500.00,
+    "payment currency": "UAH"
+  },
+  {
+    "date": "2020-09-07",
+    "payment receiver": "Ukraine",
+    "amount of payment": 1234.00,
+    "payment currency": "JPY"
+  },
+   {
+    "date": "2000-12-31",
+    "payment receiver": "Tesla",
+    "amount of payment": 1.67,
+    "payment currency": "UAH"
+  }
+]
