@@ -1,0 +1,12 @@
+notebook,Acer Aspire,124000.0,"{'desktop_os': 'windows', 'processor': 'amd', 'ram_size': 8}"
+printer,Canon MF,12000.0,{'color': 'red'}
+smartphone,Samsung i20,24000.0,"{'mobile_os': 'Android', 'screen_size': 15}"
+notebook,Dell XPS,24000.0,"{'desktop_os': 'windows', 'processor': 'amd', 'ram_size': 8}"
+printer,Canon MF,22000.0,{'color': 'red'}
+smartphone,Samsung i20,124000.0,"{'mobile_os': 'Android', 'screen_size': 15}"
+notebook,Dell XPS,24000.0,"{'desktop_os': 'windows', 'processor': 'amd', 'ram_size': 8}"
+printer,Canon MF,12000.0,{'color': 'red'}
+smartphone,Samsung i20,24000.0,"{'mobile_os': 'Android', 'screen_size': 15}"
+notebook,Macbook Pro,24000.0,"{'desktop_os': 'macOS', 'processor': 'amd', 'ram_size': 8}"
+printer,Canon MF,12000.0,{'color': 'red'}
+smartphone,Samsung i20,24000.0,"{'mobile_os': 'IOS', 'screen_size': 15}"
